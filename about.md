@@ -7,13 +7,21 @@ permalink: /about/
 ## 关于我
 我叫DJ，一名练习时长两年半的后端攻城狮
 技术栈(不分先后)：
+<br>
 Java（狗都不学）
+<br>
 SpringBoot
+<br>
 SpringCloud
+<br>
 Mybatis-Plus
+<br>
 ES
+<br>
 Redis
-Mysql
+<br>
+MySql
+<br>
 Linux
 ...
 
