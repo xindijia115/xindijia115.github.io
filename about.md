@@ -6,8 +6,9 @@ permalink: /about/
 
 ## 关于我
 我叫DJ，一名练习时长两年半的后端攻城狮
+
 <br>
-技术栈(不分先后)：
+后端技术栈：
 <br>
 Java（狗都不学）
 <br>
@@ -16,6 +17,12 @@ SpringBoot
 SpringCloud
 <br>
 Mybatis-Plus
+<br>
+Golang
+<br>
+Gin
+<br>
+Gorm
 <br>
 ES
 <br>
@@ -27,7 +34,13 @@ Linux
 ...
 
 前端略懂皮毛...
-
+<br>
+HTML
+<br>
+CSS
+<br>
+JS
+<br>
 前一段时间离职，最近苦于找下一段实习，但是后端岗位少之又少，只能闭关苦苦背八股，由此而作
 
 ## 版权声明
